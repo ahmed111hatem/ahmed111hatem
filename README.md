@@ -1,7 +1,7 @@
 # Hello, I’m Ahmed Hatem 👋
 
 I'm a Student at Helwan National Univeersity (HNU) <br/>
-I'm a Data Analyst <br/>
+I'm a Data Analyst and AI Specialist  <br/>
 
 
 ## 🌐 Socials:
