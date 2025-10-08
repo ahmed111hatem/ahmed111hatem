@@ -1,7 +1,7 @@
 # Hello, I’m Ahmed Hatem 👋
 
 I'm a Student at Helwan National Univeersity (HNU) <br/>
-I'm a Data Analyst and AI Specialist  <br/>
+I'm a Backend Developer and currently learning to be a DevOps Engineer   <br/>
 
 
 ## 🌐 Socials:
