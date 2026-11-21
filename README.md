@@ -1,7 +1,7 @@
 # Hello, I’m Ahmed Hatem 👋
 
-🎓 Computer Science Student at **Helwan National University (HNU)**  
-💻 Backend Developer | 🚀 Currently learning **DevOps Engineering**
+ Computer Science Student at **Helwan National University (HNU)**  
+ **Data Engineer**
 
 I’m passionate about building scalable backend systems, working with databases,
 and deploying applications using modern DevOps tools.
